@@ -1,0 +1,12 @@
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\bin\Debug\net6.0\SampleTask.Domain.deps.json
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\bin\Debug\net6.0\SampleTask.Domain.dll
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\bin\Debug\net6.0\SampleTask.Domain.pdb
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\SampleTask.Domain.csproj.AssemblyReference.cache
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\SampleTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\SampleTask.Domain.AssemblyInfoInputs.cache
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\SampleTask.Domain.AssemblyInfo.cs
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\SampleTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\SampleTask.Domain.dll
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\refint\SampleTask.Domain.dll
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\SampleTask.Domain.pdb
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Domain\obj\Debug\net6.0\ref\SampleTask.Domain.dll

@@ -1,0 +1,12 @@
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\bin\Debug\net6.0\SampleTask.Infrastructure.deps.json
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\bin\Debug\net6.0\SampleTask.Infrastructure.dll
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\bin\Debug\net6.0\SampleTask.Infrastructure.pdb
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\SampleTask.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\SampleTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\SampleTask.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\SampleTask.Infrastructure.AssemblyInfo.cs
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\SampleTask.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\SampleTask.Infrastructure.dll
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\refint\SampleTask.Infrastructure.dll
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\SampleTask.Infrastructure.pdb
+C:\Users\MORA\source\repos\SampleTask\SampleTask.Infrastructure\obj\Debug\net6.0\ref\SampleTask.Infrastructure.dll

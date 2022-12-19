@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.API\\SampleTask.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.API\\SampleTask.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.API\\SampleTask.API.csproj",
+        "projectName": "SampleTask.API",
+        "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.API\\SampleTask.API.csproj",
+        "packagesPath": "C:\\Users\\MORA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MORA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\SampleTask.Application.csproj": {
+                "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\SampleTask.Application.csproj"
+              },
+              "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Persistence\\SampleTask.Persistence.csproj": {
+                "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Persistence\\SampleTask.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\SampleTask.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\SampleTask.Application.csproj",
+        "projectName": "SampleTask.Application",
+        "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\SampleTask.Application.csproj",
+        "packagesPath": "C:\\Users\\MORA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MORA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\SampleTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\SampleTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\SampleTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\SampleTask.Domain.csproj",
+        "projectName": "SampleTask.Domain",
+        "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\SampleTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\MORA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MORA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Persistence\\SampleTask.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Persistence\\SampleTask.Persistence.csproj",
+        "projectName": "SampleTask.Persistence",
+        "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Persistence\\SampleTask.Persistence.csproj",
+        "packagesPath": "C:\\Users\\MORA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MORA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\SampleTask.Application.csproj": {
+                "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Application\\SampleTask.Application.csproj"
+              },
+              "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\SampleTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\MORA\\source\\repos\\SampleTask\\SampleTask.Domain\\SampleTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
